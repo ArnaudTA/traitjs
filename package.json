@@ -1,0 +1,15 @@
+{
+  "name": "@nonot/traitjs",
+  "version": "0.0.3",
+  "description": "A lib to draw lines between html elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "module": "index.js",
+  "author": "Nonot",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/ArnaudTA/traitjs"
+  }
+}
